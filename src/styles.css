@@ -1,0 +1,19 @@
+body {
+  background-color: darkgoldenrod;
+
+}
+      
+    h1 {
+display: block;
+color: red;
+
+}
+ img { 
+     padding-bottom: 2px;
+
+ }
+
+.info {
+    display: flex;
+    justify-content: space-evenly;
+}
